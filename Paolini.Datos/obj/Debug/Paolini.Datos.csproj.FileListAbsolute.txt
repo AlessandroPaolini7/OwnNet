@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\bin\Debug\Paolini.Datos.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\bin\Debug\Paolini.Datos.pdb
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\bin\Debug\Paolini.Entidades.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\bin\Debug\Paolini.Entidades.pdb
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\obj\Debug\Paolini.Datos.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\obj\Debug\Paolini.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\obj\Debug\Paolini.Datos.csproj.CopyComplete
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\obj\Debug\Paolini.Datos.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Datos\obj\Debug\Paolini.Datos.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Entidades\Paolini.Entidades\bin\Debug\Paolini.Entidades.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Entidades\Paolini.Entidades\bin\Debug\Paolini.Entidades.pdb
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Entidades\Paolini.Entidades\obj\Debug\Paolini.Entidades.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Entidades\Paolini.Entidades\obj\Debug\Paolini.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Entidades\Paolini.Entidades\obj\Debug\Paolini.Entidades.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Entidades\Paolini.Entidades\obj\Debug\Paolini.Entidades.pdb

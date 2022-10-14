@@ -1,0 +1,11 @@
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\bin\Debug\Paolini.Negocio.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\bin\Debug\Paolini.Negocio.pdb
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\bin\Debug\Paolini.Datos.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\bin\Debug\Paolini.Entidades.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\bin\Debug\Paolini.Datos.pdb
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\bin\Debug\Paolini.Entidades.pdb
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\obj\Debug\Paolini.Negocio.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\obj\Debug\Paolini.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\obj\Debug\Paolini.Negocio.csproj.CopyComplete
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\obj\Debug\Paolini.Negocio.dll
+C:\Users\Pc\Desktop\PracticandoNet\Paolini.Negocio\obj\Debug\Paolini.Negocio.pdb
